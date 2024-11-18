@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650251146999",
+    "project_id": "testautenticacion-d586b",
+    "storage_bucket": "testautenticacion-d586b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650251146999:android:22917ad724bbdcbd93e5f2",
+        "android_client_info": {
+          "package_name": "com.Carlos.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_BX4qiX5VpctoyPdUMM_cWWUiHYMTvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650251146999:android:f9321fb40d418f7a93e5f2",
+        "android_client_info": {
+          "package_name": "com.example.prueba_autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_BX4qiX5VpctoyPdUMM_cWWUiHYMTvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
